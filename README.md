@@ -1,3 +1,3 @@
 - I'm Simón Vélez, an Applied Math and Computer Science student at Universidad del Rosario.
-- I'm interested in all things Math and Computer Science, specially in math modelling, non-linear systems and AI.
+- I'm interested in all things Math and Computer Science, specially math modelling, non-linear systems and AI.
 - You can reach me via e-mail, at velezcastillosimon@gmail.com
